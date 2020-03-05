@@ -1,0 +1,131 @@
+x	y	Slopes								
+FM	1.45	EB								
+FM	1.05	EB								
+FM	0.88	EB								
+FM	0.77	EB								
+FM	0.46	EB								
+FM	0.95	EB								
+FM	1.83	EB								
+FM	0.60	EB								
+FM	0.57	EB								
+FM	0.42	EB								
+FM	0.33	EB								
+FM	0.30	EB								
+FM	0.73	EM								
+FM	1.22	EM								
+FM	1.69	EM								
+FM	0.66	EM								
+FM	0.31	EM								
+FM	0.98	EM								
+FM	1.86	EM								
+FM	0.27	EM								
+FM	0.47	EM								
+FM	0.52	EM								
+FM	0.36	EM								
+FM	0.61	EM								
+FM	0.96	EA								
+FM	1.35	EA								
+FM	1.39	EA								
+FM	0.87	EA								
+FM	0.28	EA								
+FM	0.55	EA								
+FM	1.01	EA								
+FM	0.25	EA								
+FM	1.10	EA								
+FM	0.32	EA								
+FM	0.39	EA								
+FM	0.51	EA								
+CM	0.85	EB								
+CM	3.80	EB								
+CM	1.07	EB								
+CM	1.51	EB								
+CM	1.99	EB								
+CM	0.85	EB								
+CM	1.54	EB								
+CM	0.18	EB								
+CM	0.34	EB								
+CM	0.27	EB								
+CM	0.31	EB								
+CM	1.66	EB								
+CM	0.57	EM								
+CM	2.06	EM								
+CM	1.82	EM								
+CM	1.04	EM								
+CM	0.69	EM								
+CM	0.75	EM								
+CM	1.17	EM								
+CM	0.49	EM								
+CM	0.84	EM								
+CM	0.62	EM								
+CM	0.26	EM								
+CM	0.31	EM								
+CM	1.29	EA								
+CM	1.81	EA								
+CM	1.60	EA								
+CM	1.96	EA								
+CM	0.28	EA								
+CM	0.64	EA								
+CM	1.15	EA								
+CM	0.27	EA								
+CM	0.38	EA								
+CM	0.47	EA								
+CM	0.40	EA								
+CM	0.54	EA								
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										

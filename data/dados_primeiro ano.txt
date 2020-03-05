@@ -1,0 +1,130 @@
+x	y	Slopes					
+FM	0.43	EB					
+FM	1.27	EB					
+FM	1.70	EB					
+FM	0.65	EB					
+FM	0.68	EB					
+FM	1.37	EB					
+FM	0.48	EB					
+FM	0.62	EB					
+FM	0.54	EB					
+FM	0.19	EB					
+FM	0.11	EB					
+FM	0.41	EB					
+FM	0.68	EM					
+FM	1.60	EM					
+FM	1.63	EM					
+FM	0.79	EM					
+FM	0.70	EM					
+FM	0.77	EM					
+FM	0.46	EM					
+FM	0.70	EM					
+FM	0.37	EM					
+FM	0.37	EM					
+FM	0.32	EM					
+FM	0.46	EM					
+FM	0.54	EA					
+FM	1.37	EA					
+FM	2.54	EA					
+FM	0.61	EA					
+FM	0.26	EA					
+FM	0.66	EA					
+FM	0.21	EA					
+FM	0.39	EA					
+FM	0.42	EA					
+FM	0.57	EA					
+FM	0.25	EA					
+FM	0.27	EA					
+CM	0.89	EB					
+CM	2.62	EB					
+CM	0.88	EB					
+CM	0.70	EB					
+CM	0.85	EB					
+CM	0.54	EB					
+CM	0.25	EB					
+CM	0.24	EB					
+CM	0.38	EB					
+CM	0.70	EB					
+CM	0.69	EB					
+CM	1.42	EB					
+CM	0.70	EM					
+CM	1.67	EM					
+CM	2.53	EM					
+CM	0.47	EM					
+CM	0.76	EM					
+CM	0.87	EM					
+CM	0.56	EM					
+CM	0.87	EM					
+CM	0.51	EM					
+CM	0.67	EM					
+CM	0.35	EM					
+CM	0.28	EM					
+CM	1.23	EA					
+CM	3.75	EA					
+CM	2.20	EA					
+CM	1.29	EA					
+CM	0.48	EA					
+CM	0.98	EA					
+CM	0.50	EA					
+CM	0.98	EA					
+CM	0.40	EA					
+CM	0.28	EA					
+CM	0.52	EA					
+CM	0.47	EA					
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
